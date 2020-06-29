@@ -72,6 +72,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+.logan{
+display: inherit;
+}
+
+
+
 /* Page */
 
 	@-moz-keyframes load-spinner {
